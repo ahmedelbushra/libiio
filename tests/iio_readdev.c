@@ -31,7 +31,7 @@
 
 #define MY_NAME "iio_readdev"
 
-#define SAMPLES_PER_READ 256
+#define SAMPLES_PER_READ 512
 #define DEFAULT_FREQ_HZ  100
 
 static const struct option options[] = {
